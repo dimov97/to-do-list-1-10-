@@ -1,0 +1,20 @@
+.App {
+  padding: 30px;
+  display: flex;
+}
+
+.App > div {
+  margin-right: 50px;
+}
+.error {
+  border: 2px solid red;
+}
+.errorMessage {
+  color: red;
+}
+.filterActive {
+  background-color: orchid;
+}
+.isDone {
+  opacity: .5;
+}
